@@ -1,0 +1,27 @@
+{
+  "name": "steamgameslist",
+  "version": "1.0.0",
+  "description": "a simple list of your steam games",
+  "main": "sgl.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/color-theory/SteamGamesList.git"
+  },
+  "keywords": [
+    "steam",
+    "games",
+    "list"
+  ],
+  "author": "color",
+  "license": "JSON",
+  "bugs": {
+    "url": "https://github.com/color-theory/SteamGamesList/issues"
+  },
+  "homepage": "https://github.com/color-theory/SteamGamesList#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}
